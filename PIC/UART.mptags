@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BAUD::19200	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	11;"	d	line:11	file:
+BAUD::19200	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.h	5;"	d	line:5
+BAUD_ERROR::4	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	13;"	d	line:13	file:
+BAUD_REAL::(FOSC/((64UL-(BRGH_SET*48UL))*	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	27;"	d	line:27	file:
+BRGH_SET::0	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	23;"	d	line:23	file:
+BRGH_SET::1	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	20;"	d	line:20	file:
+FOSC::_XTAL_FREQ	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	9;"	d	line:9	file:
+RX_TRIS::TRISC7	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.h	7;"	d	line:7
+SPBRG_SET::(FOSC/(16UL*BAUD))-1	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	19;"	d	line:19	file:
+SPBRG_SET::(FOSC/(64UL*BAUD))-1	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	22;"	d	line:22	file:
+TX_TRIS::TRISC6	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.h	6;"	d	line:6
+_UART_H_	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.h	2;"	d	line:2
+g	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	136;"	l	line:136
+uart_GetChar	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	127;"	f	line:127
+uart_GetChar	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.h	14;"	p	line:14	signature:()
+uart_GetString	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	135;"	f	line:135	signature:(BYTE *c)
+uart_GetString	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.h	15;"	p	line:15	signature:(BYTE *c)
+uart_IsReady	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	131;"	f	line:131
+uart_IsReady	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.h	13;"	p	line:13	signature:()
+uart_PutChar	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	108;"	f	line:108	signature:(BYTE c)
+uart_PutChar	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.h	9;"	p	line:9	signature:(BYTE c)
+uart_PutROMString	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	120;"	f	line:120	signature:(ROM BYTE* r)
+uart_PutROMString	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.h	11;"	p	line:11	signature:(ROM BYTE *r)
+uart_PutString	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	113;"	f	line:113	signature:(BYTE* s)
+uart_PutString	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.h	10;"	p	line:10	signature:(BYTE *s)
+uart_init	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.c	3;"	f	line:3
+uart_init	C:\Users\Minh Thanh\Desktop\Lab7 - UART\uart.h	8;"	p	line:8	signature:()

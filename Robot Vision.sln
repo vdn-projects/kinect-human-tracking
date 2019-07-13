@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Robot Vision", "Robot Vision\Robot Vision.vcxproj", "{818ED98C-95E5-4BB6-BA81-BAE1EB49830B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818ED98C-95E5-4BB6-BA81-BAE1EB49830B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{818ED98C-95E5-4BB6-BA81-BAE1EB49830B}.Debug|Win32.Build.0 = Debug|Win32
+		{818ED98C-95E5-4BB6-BA81-BAE1EB49830B}.Release|Win32.ActiveCfg = Release|Win32
+		{818ED98C-95E5-4BB6-BA81-BAE1EB49830B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

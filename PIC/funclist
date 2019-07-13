@@ -1,0 +1,15 @@
+_setup_ADC: CODE, 1169 0 26
+___ftpack: CODE, 1010 0 62
+_main: CODE, 507 0 342
+_setup_interrupt: CODE, 1253 0 6
+_setup_timer2: CODE, 1259 0 6
+___lltoft: CODE, 849 0 43
+___lmul: CODE, 434 0 51
+_uart_init: CODE, 1220 0 22
+_setup_pwm: CODE, 1242 0 11
+___lldiv: CODE, 362 0 72
+_isr: CODE, 17 0 283
+___llmod: CODE, 300 0 62
+___fttol: CODE, 1072 0 97
+___ftdiv: CODE, 892 0 118
+Total: 1201
