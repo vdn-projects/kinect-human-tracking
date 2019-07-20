@@ -4,7 +4,7 @@ This project is built with Kinect and controller drived by a laptop. This is lev
 Demo link: https://www.youtube.com/watch?v=ObY7AlxJ9-0
 <p align="center">
     <image src="./images/ScreenShot.png" width="70%">
-    <div align="center">Data pipeline</div>
+    <div align="center">Youtube screenshot</div>
 </p>
 
 
